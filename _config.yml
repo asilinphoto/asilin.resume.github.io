@@ -1,3 +1,10 @@
-theme: jekyll-theme-leap-day
-title: A.Silin
-description: :construction_worker_woman: Personal website in progress :construction_worker_woman:
+remote_theme: pages-themes/merlot@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+
+title: Abigail Silin's Resume
+description: WIP site
+
+show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
